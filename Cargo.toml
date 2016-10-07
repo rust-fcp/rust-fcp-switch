@@ -1,0 +1,6 @@
+[package]
+name = "fcp_switch"
+version = "0.1.0"
+authors = ["Valentin Lorentz <progval+git@progval.net>"]
+
+[dependencies]
